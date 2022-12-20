@@ -32,7 +32,7 @@ To get a local copy up, follow these simple steps.
 
 ### Prerequisites
 
-git clone https://github.com/ogagaoghene/doctor_appointment_frontend.git
+git clone https://github.com/ogagaoghene/alx-backend-javascript.git
 
 
 ### Usage
