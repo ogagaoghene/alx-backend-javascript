@@ -30,5 +30,3 @@
 👤 **Esi Ogagaoghene**
 
 - GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
-- Twitter: [@esi-ogaga](https://twitter.com/esi-ogaga)
-- LinkedIn: [ogagaoghene-esi](https://linkedin.com/in/ogagaoghene-esi)
